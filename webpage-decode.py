@@ -1,6 +1,5 @@
 ## --- Problem URL: https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html
 
-from distutils.filelist import findall
 import requests
 from bs4 import BeautifulSoup
  
